@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify User Successfully Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b62b5224-db44-4f12-a28a-44ba3e5074fe</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>04dc1b09-53c2-4032-a765-48bbc178c5d0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>6ee4b5a9-7e47-4614-befc-e19b621ba016</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
